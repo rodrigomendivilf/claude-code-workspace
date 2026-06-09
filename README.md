@@ -4,7 +4,12 @@ Personal workspace for experimenting with Claude Code.
 
 ## Getting Started
 
-Clone the repo and open the folder in your terminal or IDE.
+Clone the repo and open the folder in your terminal or IDE:
+
+```bash
+git clone https://github.com/rodrigomendivilf/claude-code-workspace.git
+cd claude-code-workspace
+```
 
 ## Usage
 
